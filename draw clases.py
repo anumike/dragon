@@ -1,0 +1,21 @@
+import turtle
+import tkinter
+tkinter=tkinter.Tk()
+
+avery=turtle.Pen()
+kate=turtle.Pen()
+avery.color(0.6,1, 0.9)
+avery.forward(50)
+avery.right(90)
+avery.forward(100)
+avery.left(270)
+avery.forward(130)
+kate.color(1,0.9,0)
+kate.left(90)
+kate.forward(100)
+jacob=turtle.Pen()
+jacob.color(1,0,1)
+jacob.left(180)
+jacob.forward(80)
+jacob.left(90)
+jacob.forward(130)

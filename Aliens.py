@@ -26,7 +26,7 @@ if aliens >74000000000:
 
 
 
-    print("of n-o-o!We ost the battle.")
+    print("of n-o-o!We  lost the battle.")
 
 else:
     print("hooray! we win the  battle!")
